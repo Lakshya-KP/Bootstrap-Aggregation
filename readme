@@ -1,0 +1,7 @@
+Implement ensemble learning technique using the concept of Bootstrap Aggregation.
+
+Here, generate 5 different models using a random subset sample from the entire dataset and give the result by taking majority voting (aggregation) from five models.
+Take standard imbalance dataset
+Run your model for train-test split of:(1) 70%-30% (2) 80%-20%
+Find the F1 score, precision, recall and accuracy for each model
+Visualization of the dataset as well as training and validation of each model
